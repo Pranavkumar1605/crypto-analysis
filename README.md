@@ -2,7 +2,7 @@
 
 A beginner-friendly data science project for analyzing cryptocurrency prices and backtesting simple trading strategies.
 
-## roject Goals
+## Project Goals
 - Fetch historical cryptocurrency data
 - Perform exploratory data analysis (EDA)
 - Visualize price trends and patterns
