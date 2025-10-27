@@ -76,5 +76,5 @@ pip install -r requirements.txt
 This is a learning project, but suggestions are welcome!
 
 ## 👤 Author
-Peanav Kumar - [GitHub](https://github.com/Pranavkumar1605)
+Pranav Kumar - [GitHub](https://github.com/Pranavkumar1605)
 ```
